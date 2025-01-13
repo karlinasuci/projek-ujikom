@@ -3,12 +3,7 @@
 @section('title', 'Dashboard')
 
 @section('content')
-<style>
-    #userRoleChart, #activityChart {
-        background-color: #f9f9f9;
-        border-radius: 10px;
-    }
-</style>
+
 
 <h1>Selamat Datang, {{ ucfirst($role) }}</h1>
 <p>Ini adalah halaman dashboard utama.</p>
