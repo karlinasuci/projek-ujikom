@@ -5,8 +5,6 @@
 @section('content')
 
 
-<h1>Selamat Datang, {{ ucfirst($role) }}</h1>
-<p>Ini adalah halaman dashboard utama.</p>
 
 <div class="row">
     <div class="col-md-6">
